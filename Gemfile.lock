@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (0.9.1)
+    seneca (0.1.0)
+      rack (~> 0.0, > 0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  seneca
+
+BUNDLED WITH
+   1.14.6
