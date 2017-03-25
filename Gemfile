@@ -1,2 +1,3 @@
 source :rubygems
-gem 'seneca'
+
+gem 'seneca' # actually handling http request-response
