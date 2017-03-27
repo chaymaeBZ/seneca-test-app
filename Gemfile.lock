@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     rack (2.0.1)
-    seneca (0.1.0)
+    seneca (0.1.1)
       rack (> 0.0)
 
 PLATFORMS
