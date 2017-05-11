@@ -1,3 +1,3 @@
 source :rubygems
 
-gem 'seneca' # actually handling http request-response
+gem 'seneca', path: "../Seneca" # actually handling http request-response
